@@ -1,4 +1,4 @@
-# CRUD PostgreSQL MCP Server Erfahrungsbericht
+# CRUD MySQL MCP Server Erfahrungsbericht
 Ziel war es hier einen MCP-Server als Brücke zwischen dem Claude-Client und einer MySQL-Datenbank zu entwickeln, um CRUD Answeisungen auszuführen. 
 Hierbei handelt es sich um einen kleinen Erfahrungsbericht. Hier ging es mir also in erster Linie darum Erkenntnisse zu gewinnen und zu lernen.
 Der Quellkode für den MCP-Server wurde von Claude erstellt. 
