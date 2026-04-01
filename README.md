@@ -54,7 +54,7 @@ Die Datei `claude_desktop_config.json` `(C:\Users\user\AppData\Roaming\Claude\cl
 
 "mysql-crud": {
       "command": "c:/Users/<user>/AppData/Local/Programs/Python/Python311/python.exe",
-      "args": ["c:/deploy/mcp/crud_mysql/server.py"],
+      "args": ["c:/<your path>/mcp_crud_local_mysql/server.py"],
       "env": {
         "MYSQL_HOST": "localhost",
         "MYSQL_PORT": "3306",
